@@ -1,0 +1,28 @@
+{
+  "name": "hashonym",
+  "version": "0.0.0",
+  "description": "cp files using the content hash as the filename",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekashida/grunt-hashonym"
+  },
+  "keywords": [
+    "file",
+    "hash",
+    "copy",
+    "sha1",
+    "md5",
+    "hex"
+  ],
+  "author": "Eugene Kashida <ekashida@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "mkdirp": "~0.3.5",
+    "hashfile": "0.0.0",
+    "debug": "~0.7.4"
+  }
+}
