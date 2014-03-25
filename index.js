@@ -1,3 +1,9 @@
+/*
+ * Copyright 2014 Yahoo! Inc. All rights reserved.
+ * Licensed under the BSD License.
+ * http://yuilibrary.com/license/
+ */
+
 var fs          = require('fs'),
     path        = require('path'),
     debug       = require('debug')('hashonym'),
